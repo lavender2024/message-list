@@ -1,14 +1,7 @@
 {
-  "version": "1.0.0",
-  "status": 200,
-  "message": "",
-  "data": [
-    {
-      "id": 1,
-      "title": "通知标题",
-      "content": "内容正文",
-      "date": "2024-01-01",
-      "isRecently": false
-    }
-  ]
+  "version": "1.0.1",
+  "msg": "获取成功",
+  "data": {
+    "list": []
+  }
 }
