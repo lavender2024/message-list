@@ -6,11 +6,11 @@
       {
         "id": 1,
         "title": "氪金兽",
-        "content": "请使用浏览器搜索 氪金兽 进行交易",
+        "content": "有问题请使用浏览器搜索 氪金兽 进行咨询",
         "time": "2026-09-23",
         "type": "warning",
         "isTips": true,
-        "tipsMsg": "欢迎使用氪金兽",
+        "tipsMsg": "欢迎使用浏览器搜索氪金兽",
         "contentType":"https://m.kejinshou.com?channelCode=ios_tool_v2&linkSource=ios_tool"
       }
     ]
